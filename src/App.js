@@ -34,7 +34,6 @@ export default function InviteUsers() {
     }
   }
 
-  console.log(state);
   return (
     <div className="mx-auto p-8 max-w-lg">
       <div>
